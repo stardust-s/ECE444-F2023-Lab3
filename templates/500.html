@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %} Oh, No! {% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="page-header">
+        <h1>500!</h1>
+        <p>Something went wrong and we are not able to serve this request.</p>
+        <a href="/">Return to homepage</a>
+        <p><br><br>The exact error is as follows:<br>{{msg}}</p>
+    </div>
+</div>
+{% endblock %}
