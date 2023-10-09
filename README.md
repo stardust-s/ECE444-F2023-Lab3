@@ -15,3 +15,8 @@ Docker Installation Successful
 ![Website](https://raw.githubusercontent.com/stardust-s/ECE444-F2023-Lab3/main/img/2.png "Website")
 
 Modified website running outisde of docker
+
+# Activity 4
+![docker](https://raw.githubusercontent.com/stardust-s/ECE444-F2023-Lab3/main/img/3.png "docker")
+
+Building and running docker image
